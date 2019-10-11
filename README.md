@@ -5,7 +5,7 @@ It is organized in different folders that group the mentioned documentation.
 
 ## License
 
-    Copyright 2018 Fernando Cejas
+    Copyright 2019 Fernando Cejas
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
